@@ -8,3 +8,4 @@ R-Zero - Chain
 MwGek - Velothi Lighthouse
 Tamriel_Data - Velothi Rubble Meshes
 Anumaril - Velothi Rubble Texture
+Nobiax - Grapevine texture
