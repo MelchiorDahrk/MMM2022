@@ -5,8 +5,8 @@ Stripes - Cliffs
 Remiros - Cave Pieces
 Textures.com - Textures
 R-Zero - Chain
-MwGek - Velothi Lighthouse
+MwGek - Velothi Lighthouse, curtains, rafter rugs
 Tamriel_Data - Velothi Rubble Meshes
 Anumaril - Velothi Rubble Texture
 Nobiax - Grapevine texture
-Momo - Vine vine texture
+Momo - Vine roots texture
