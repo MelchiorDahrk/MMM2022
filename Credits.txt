@@ -10,8 +10,7 @@ Tamriel_Data - Velothi Rubble Meshes
 Anumaril - Velothi Rubble Texture
 Nobiax - Grapevine texture
 Momo - Vine roots texture
-Rubberman - Glowshrooms
+Rubberman - Glowshroom base model/texture
 LondonRook - https://www.patreon.com/LondonRook
-Hemaris - rock meshes
+Hemaris - rock meshes, mushroom textures
 Davegh - glowstone rock textures
-Textures.com - mushroom textures
