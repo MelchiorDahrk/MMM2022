@@ -12,3 +12,5 @@ Nobiax - Grapevine texture
 Momo - Vine roots texture
 Rubberman - Glowshrooms
 LondonRook - https://www.patreon.com/LondonRook
+Hemaris - rock meshes
+Davegh - glowstone rock textures
