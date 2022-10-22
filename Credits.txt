@@ -12,6 +12,6 @@ Nobiax - Grapevine texture
 Momo - Vine roots texture
 Rubberman - Glowshroom base model/texture
 LondonRook - https://www.patreon.com/LondonRook
-Hemaris - rock meshes, mushroom textures
+Hemaris - rock meshes, mushroom textures, aster texture help
 Davegh - glowstone rock textures
 Project Enhance - textures
