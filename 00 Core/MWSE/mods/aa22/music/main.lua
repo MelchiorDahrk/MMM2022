@@ -8,7 +8,7 @@ local TRACKS = {
 
 
 local function isMassamaCell(cell)
-    return (cell and cell.name or ""):startswith("Massama")
+    return (cell and cell.name or ""):startswith("Massama,")
 end
 
 
