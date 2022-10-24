@@ -3,7 +3,7 @@
 local SILENCE = "aa22\\special\\silence.mp3"
 
 local TRACKS = {
-    "fm\\tew_aa_3.mp3",
+    "aa22\\tew_aa_3.mp3",
 }
 
 
