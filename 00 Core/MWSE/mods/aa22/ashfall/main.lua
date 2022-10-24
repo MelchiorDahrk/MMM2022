@@ -2,8 +2,8 @@ local ashfall = include("mer.ashfall.interop")
 if ashfall then
 
     ashfall.registerActivators{
-		aa22_Fx_WaterAquedCenter = "waterDirty"
-		aa22_Fx_WaterAquedEnd = "waterDirty"
+		aa22_Fx_WaterAquedCenter = "waterDirty",
+		aa22_Fx_WaterAquedEnd = "waterDirty",
 		aa22_Fx_WaterAquedShort = "waterDirty"
     }
 
