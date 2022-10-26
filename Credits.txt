@@ -12,9 +12,10 @@ Nobiax - Grapevine texture
 Momo - Vine roots texture
 Rubberman - Glowshroom base model/texture
 LondonRook - https://www.patreon.com/LondonRook
-Hemaris - rock meshes, mushroom textures, aster texture help
+Hemaris - rock meshes, mushroom textures, aster texture help, easter egg inspiration and help with bookart
 Davegh - glowstone rock textures
 Project Enhance - textures
 tewlwolow - music track
 Greatness7 - music code
 Darknut - giant dwemer pipe
+Tri-Tachyon - heavy metal riff
