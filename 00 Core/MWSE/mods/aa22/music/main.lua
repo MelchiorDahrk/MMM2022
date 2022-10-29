@@ -32,3 +32,8 @@ local function onMusicSelectTrack(e)
     end
 end
 event.register("musicSelectTrack", onMusicSelectTrack, { priority = 360 })
+
+event.register("initialized", function()
+    mwse.overrideScript("aa22_MassamaMusic_s", function() 
+    end)
+end)
