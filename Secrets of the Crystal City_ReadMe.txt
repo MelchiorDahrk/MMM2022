@@ -35,6 +35,8 @@ Features
 
 
 Starting the mod
+Recommended levels 15-20
+
 Twin Lamps: Start the vanilla `The Twin Lamps` quest by freeing enough slaves and talking to one of them about `Twin Lamps`. Then find and talk to Ilmeni Dren about it.
 Telvanni/Non-Faction: Latest Rumors from Telvanni members in Sadrith Mora.
 
