@@ -14,7 +14,7 @@ The lost "Crystal City" of Massama has been discovered by a desperate group of e
 
 Features
 - Delve into the newly overhauled Massama Cave
-- Explore an enormous underground Velothi city inhabited by over 80 new NPCs while enjoying atmospheric music by tewlwolow
+- Explore an enormous underground Velothi city inhabited by 90+ new NPCs while enjoying atmospheric music by tewlwolow
 - Epic new dungeons including Velothi catacombs, a daedric shrine, dwemer ruins, and caverns
 - Unravel the mysterious hauntings that plague the citizens
 - Perform 6 quests for the Twin Lamps members in the city
