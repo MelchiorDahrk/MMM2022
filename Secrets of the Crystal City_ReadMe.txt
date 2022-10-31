@@ -1,14 +1,11 @@
 Secrets of the Crystal City
 
-Team Ancestral Ashkhans
-	Juidius_X
-	Melchior Dahrk
-	Peter/HaloVarium
-	seelof
+by Team Ancestral Ashkhans
+Juidius_X, Melchior Dahrk, Peter/HaloVarium, seelof
 
 Made for 2022 Morrowind Modding Madness
-	Themes: Enterprise and Industry + Conflict
-	Qualifications: This mod deals with the glass mining and slave industries. This mod involves conflict between the inhabitants of Massama.
+Themes: Enterprise and Industry + Conflict
+Qualifications: This mod deals with the glass mining and slave industries. This mod involves conflict between the inhabitants of Massama.
 
 
 Description
