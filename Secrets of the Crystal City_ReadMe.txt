@@ -32,6 +32,7 @@ Features
 - Savor the white aster flower which the locals ferment into a new wine and can be brewed into tea with Ashfall installed
 - Wield a new set of raw glass weapons crafted in Massama
 - Loot the ancient dram coins which were in circulation at the time the city of Massama was in its prime
+- Find Boethiah's legendary axe that he wields with his statue.
 
 
 Starting the mod
@@ -44,6 +45,8 @@ Telvanni/Non-Faction: Latest Rumors from Telvanni members in Sadrith Mora.
 Installation
 00 Core -- Required files
 01 HD Textures -- Install if you want HD textures
+
+Make sure that SecretsOfTheCrystalCity.esp loads after Clean_Mines & Caverns.esp (which edits Massama Cave).
 
 
 Credits
@@ -75,7 +78,11 @@ Team Dark Sisterhood - crossover content
 tewlwolow - music track
 Textures.com - Textures
 Tri-Tachyon - heavy metal riff
+YarYulme - Dwemer Gear Staff
 
 
 Changelog
 1.0 - initial release
+1.1 - cleaned dialogue
+1.2 - fixed dialogue filtering
+1.3 - - Fixed journal typo in cursed shield quest, Fixed a book formatting error, Made a few more npcs uxith, Added Twin Lamps topic, Added banner for twin moons club, made compatible with Mines & Caverns
