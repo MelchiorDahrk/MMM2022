@@ -27,7 +27,7 @@ Features
 - Be dazzled by brilliant new visual effects like sunrays, spore clouds, and enormous waterfalls
 - Prove that you are Worthy in an undocumented side challenge dedicated to Boethiah
 - Over 200 new assets give the new locales connected to Massama a fresh look
-- Practice your alchemy while harvesting 6 new ingredients throughout the new locations
+- Practice your alchemy while harvesting 5 new ingredients throughout the new locations
 - Reward exploration with side puzzles and unique rewards hidden between the 30+ new interiors
 - Savor the white aster flower which the locals ferment into a new wine and can be brewed into tea with Ashfall installed
 - Wield a new set of raw glass weapons crafted in Massama
