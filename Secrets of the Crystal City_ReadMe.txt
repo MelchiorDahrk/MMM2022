@@ -59,6 +59,7 @@ Davegh - glowstone rock textures
 Greatness7 - music code
 Hemaris - rock meshes, mushroom textures, aster texture help, easter egg inspiration and help with bookart
 joanasc - skylamp creature
+Lamb Shark - seducer creature
 LondonRook - https://www.patreon.com/LondonRook
 Lougian - Rocks
 Momo - Vine roots texture
@@ -85,4 +86,5 @@ Changelog
 1.0 - initial release
 1.1 - cleaned dialogue
 1.2 - fixed dialogue filtering
-1.3 - - Fixed journal typo in cursed shield quest, Fixed a book formatting error, Made a few more npcs uxith, Added Twin Lamps topic, Added banner for twin moons club, made compatible with Mines & Caverns
+1.3 - Fixed journal typo in cursed shield quest, Fixed a book formatting error, Made a few more npcs uxith, Added Twin Lamps topic, Added banner for twin moons club, made compatible with Mines & Caverns
+1.4 - Added Seducer model, added journal entry when the Uxith-Kei leave, made He-Who-Stands-There's greeting add the "Slaves in the Grazelands" topic if players skip the intro quest, gave directions to the smith in the relevant quest, made Vasteix trigger the "Ghost Sightings" quest to reduce back and forth walking for the player, gave directions to Sirramus manor in the relevant quest, fixed dialogue filtering issue which broke progression of the "Ghost Sightings" quest, fixed script expression error for aa22_Fx_WaterfallRoundTall, gave method of returning to Massama after the questline, fixed boethiah's axe mesh and sheath, fixed enchant effect on Mirror Shield
