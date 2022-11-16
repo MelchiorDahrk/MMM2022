@@ -45,6 +45,7 @@ Telvanni/Non-Faction: Latest Rumors from Telvanni members in Sadrith Mora.
 Installation
 00 Core -- Required files
 01 HD Textures -- Install if you want HD textures
+02 Illuminated Order Patch -- Load this plugin after the Illuminated Order and Secrets of the Crystal City plugins
 
 Make sure that SecretsOfTheCrystalCity.esp loads after Clean_Mines & Caverns.esp (which edits Massama Cave).
 
@@ -91,3 +92,4 @@ Changelog
 1.5 - added missing music file
 1.6 - fixed script on Massama door, fixed Ravos' proposal book having no text, fixed dwemer mines reappearing, improved boethiah challenge script so the AI is less likely to freak out, covered hole in the map in Massama, City cell
 1.7 - Additional underwater detailing in Massama, Commons and Arkng-Zel, Ring of Yendorr cells, Additional detailing in both parts of the city including the mining area, More secrets to discover throughout the mod, Improved performance in Massama, City and Massama, Commons cells, More fitting waterfall for the aqueduct leading into the main city, Added crime system to Uxith-Kei faction (talk to Ravos to clear the bounty if you catch too much heat), Cleaned dialogue, Improved pathgrids, Bug fixes
+2.0 - Added Illuminated Order patch
