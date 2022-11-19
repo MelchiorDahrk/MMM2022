@@ -75,6 +75,7 @@ Senten - Rocks
 Siberian Crab - Velothi shrines
 Stripes - Cliffs
 Tamriel_Data - Velothi Rubble Meshes
+Tazy - Impact sound
 Team Ceaseless Centurions - crossover content
 Team Dark Sisterhood - crossover content
 tewlwolow - music track
